@@ -1,0 +1,62 @@
+/* Students: Our work lies in the js file. */
+
+body {
+    /* Visual */
+    background: gray;
+    background-image: url( "../images/wall-street-bull.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.jumbotron {
+    margin: 10px;
+    border: solid 3px black;
+    background-color: rgba(100, 100, 100, .60);
+}
+
+#display {
+    font-family: monospace;
+    font-size: 120px;
+    color: red;
+    /* Typography */
+    text-align: center;
+    /* Visual */
+    background: gray;
+}
+
+#display {
+
+    margin: 25px;
+    border: solid 3px black ;
+    width: 500px;
+    margin: 50px auto 0;
+}
+
+#buttons {
+    /* Typography */
+    text-align: center;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    margin: auto;
+}
+
+.hidden {
+    display: none;
+
+}
+
+.question-area{
+    height: 20rem;
+    color: azure;
+
+}
+
+.score{
+    height: 12rem;
+    color: azure;
+
+}
